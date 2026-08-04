@@ -25,4 +25,4 @@ public class test{
     private Double price;
 
     private Integer quantity;
-}
+}   
