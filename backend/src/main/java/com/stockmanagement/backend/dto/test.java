@@ -14,15 +14,17 @@ import lombok.Setter;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class test{
+public class test {
 
-    private Long id;
+    private Long idtest;
 
-    private String name;
+    private String nameTest;
 
-    private String description;
+    private String descriptionTest;
 
-    private Double price;
+    private Double priceTest;
 
-    private Integer quantity;
+    private Integer TotalQuantityTest;
+
+    private Integer AvailableQuantityTest;
 }
