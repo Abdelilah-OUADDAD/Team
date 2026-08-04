@@ -24,5 +24,7 @@ public class test{
 
     private Double price;
 
+    /*gfhdfjsdhfdsfggds*/
+    
     private Integer quantity;
 }   
