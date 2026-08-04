@@ -14,7 +14,7 @@ import lombok.Setter;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-public class test{
+public class test {
 
     private Long id;
 
@@ -24,7 +24,9 @@ public class test{
 
     private Double price;
 
-    /*gfhdfjsdhfdsfggds*/
-    
+    /* lorem is down full */
+
     private Integer quantity;
-}   
+
+    // ose lik lode nazjdkaz
+}
